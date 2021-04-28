@@ -1,0 +1,20 @@
+{
+    "name": "joseda/crud2",
+    "description": "Practica crud 2",
+    "type": "project",
+    "license": "Free",
+    "authors": [
+        {
+            "name": "Jodaru95",
+            "email": "jodaru95@gmail.com"
+        }
+    ],
+    "config":{
+        "optimize-autoloader": true
+    },
+    "autoload":{
+        "psr-4": {
+            "Clases\\": "clases"
+        }
+    }
+}
